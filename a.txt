@@ -1,2 +1,0 @@
-this is new file in a file a.txt
-i am doing changes in this file after adding this file into .gitignore
