@@ -3,7 +3,8 @@
 #include <stdio.h>
 int main(){
   printf("Hello World!\n");
-<<<<<<< HEAD
+  int b;
+  scanf("%d",&b); // scanning the data from end user
   int a;
   scanf("%d",&a); //scanning the data
 
